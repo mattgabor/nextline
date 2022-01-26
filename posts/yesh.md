@@ -1,0 +1,6 @@
+---
+title: cool
+---
+
+blog
+- blog
